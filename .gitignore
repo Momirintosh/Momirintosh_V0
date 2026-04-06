@@ -1,0 +1,8 @@
+venv/
+card_images_monochrome/
+AtomicCards.json
+AtomicCards.json.zip
+mg_atomic.db
+print_history.csv
+proxy_history.csv
+QR_CODE.png
